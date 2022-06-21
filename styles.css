@@ -1,0 +1,27 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #FFFFFF;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #7BF2DA;
+}
+.container .row .col-lg-4 {
+    background-color: #FFFFFF;
+}
+.col-lg-4 .card.col-md-4.col-lg-12 .card-img-top {
+    background-color: #FFFFFF;
+    color: #7BF2DA;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    color: #FFFFFF;
+    background-color: #7BF2DA;
+}
+#headingOne1 .mb-0 a {
+    color: #7BF2DA;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #7BF2DA;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #7BF2DA;
+}
